@@ -1,1 +1,10 @@
+Shell Scripting:
+It is process to automating your day to day activities.
+
+Difference between touch and vim
+```bash
+touch # creates the empty file and useful for the automation
+vim # creates file and open it immediately 
+```
+
 
